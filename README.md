@@ -1,3 +1,2 @@
 # auto-woot
-
-coming soon!
+javascript:(function(){$.getScript('https://rawgit.com/dj-monstercat/auto-woot/master/autowoot.js');})();
